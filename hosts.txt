@@ -1,2 +1,5 @@
 ebay.com
 google.com
+ebay.com
+ebay.ca
+google.ca
